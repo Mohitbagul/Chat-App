@@ -1,4 +1,4 @@
-<h1 align="center">🔥AmazeTalk (MERN-Chat-App) - Live Demo:<a href="https://amaze-talk.web.app/" target="_blank"> visit 🔗</a> </h1>
+<h1 align="center">🔥AmazeTalk (MERN-Chat-App)  </h1>
 <img src="./client/amazetalk/screenshot/main.png" alt="Image Alt Text" style="max-width: 100%; height: auto">
 
 # Project Overview 📚:
